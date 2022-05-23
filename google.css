@@ -1,0 +1,79 @@
+
+
+.box{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    ;
+}
+
+.box2{
+    width: 33%;
+    margin-top:2px;
+    margin-left: 5%;
+    margin-right: auto;
+    text-align: center;
+    padding-top:9px ;
+    padding-bottom:9px;
+    float: left;
+   ;
+}
+
+.box3 {
+   width: 18%;
+   float: left;
+   margin-left: 2px;
+   margin-top: 2px;
+   text-align: center;
+   font-size: small;
+   padding-top: 6px;
+   padding-bottom: 6px;
+}
+
+.box4{
+    width: 38.7%;
+   float: left;
+   margin-left: 2px;
+   margin-top: 2px;
+   text-align: center;
+   font-size: small;
+   padding-bottom: 0.5px;
+
+}
+
+.bg-e {
+    background-color: #eeeeeec4;
+}
+
+.bg-t{
+    background-color: #7EE5DA 
+}
+
+.bg-t2{
+    background-color: #70ccc2 
+}
+.bg-t3{
+    background-color:#62B3AA ;
+}
+
+input[type=text], select {
+    width: 25%;
+
+    }
+
+input[type=submit] {
+        border: none;
+       margin-top: 1px;
+       margin-bottom: 1px;
+       margin-right: 8px;
+    }
+
+    p{
+        text-align: center;
+        font-size:small ;
+    }
+    
+    .clear {
+        clear: both;
+    }
+ 
